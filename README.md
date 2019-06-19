@@ -5,13 +5,13 @@ This project is based in Python 3.7. Dependencies are currently none.
 Short term goals are, in order of completion:
 
 1. Making the character tracker accurately track all information needed in a session. 
-  * Items: Weapons, Armour, etc
-  * Class basics: BAB, Saves, etc
-  * Class extras: Spells, Bardic Song, etc
+    * Items: Weapons, Armour, etc
+    * Class basics: BAB, Saves, etc
+    * Class extras: Spells, Bardic Song, etc
 1. Include a GUI to actually be able to use it in a session.
-  * Qt/Tk wrapper for Android phones
-  * PyGame/Qt/Tk wrapper for Linux laptops.
-  * No current plans for iOS or Windows.
+    * Qt/Tk wrapper for Android phones
+    * PyGame/Qt/Tk wrapper for Linux laptops.
+    * No current plans for iOS or Windows.
 
 
 Long terms goals include, but aren't limited to:
